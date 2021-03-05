@@ -63,7 +63,7 @@ from sklearn.model_selection import cross_val_score
 folds = 5
 skf = StratifiedKFold(n_splits=folds)
 
-# モデリングと
+# モデリング
 allAlgorithms = all_estimators(type_filter="classifier")
 
 for(name, algorithm) in allAlgorithms:
