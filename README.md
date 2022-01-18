@@ -1,3 +1,3 @@
 # iris-signate
-
-https://signate.jp/competitions/115/discussions/score094667
+【練習問題】アヤメの分類<br/>
+https://signate.jp/competitions/115/
